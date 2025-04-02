@@ -3,7 +3,7 @@
 	"id": "sanguine",
 	"version": "${version}",
 	"name": "sanguine",
-	"description": "Adds blood and bloodletting to minecraft",
+	"description": "Adds blood to minecraft",
 	"authors": [
 		"Scade/Bl4n"
 	],
